@@ -3,5 +3,11 @@ p {
 }
 
 .header-panel {
-  background-color: darkgray; border-radius:0.25rem;
+  background-color: darkgray;
+  border-radius: 0.25rem;
+}
+
+.invalid-input-text {
+  border: solid rgba(255, 0, 0, 0.336) !important;
+  border-radius: 8px;
 }
